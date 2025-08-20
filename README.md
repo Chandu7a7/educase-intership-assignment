@@ -23,4 +23,14 @@ A simple **frontend web application** built with **React.js**, featuring **Login
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/educase-internship-assignment.git
+   git clone https://github.com/Chandu7a7/educase-intership-assignment.git
+2. Navigate to the project folder:
+    ```bash
+   cd educase-internship-assignment
+3. Install dependencies:
+    ```bash
+   npm install
+4. Start
+   ```bash
+   npm run dev
+
